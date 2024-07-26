@@ -28,3 +28,84 @@ security
 \bcross−origin\b
 unauthori[z|s]ed 
 infinite loop
+out of bound
+use after free
+double free
+divide by zero
+overflow
+illegal
+leak
+disclosure
+improper
+unexpected
+sanity check
+uninitialize
+fail
+null pointer dereference
+null function pointer
+crash
+corrupt
+deadlock
+race condition
+denial of service
+CVE
+exploit
+attack
+vulnerable
+fuzz
+verify
+security issue/problem/fix
+privilege
+malicious
+undefined behavior
+exposure
+remote code execution
+open redirect
+OSVDB
+ReDoS
+NVD
+clickjacking
+man-in-the-middle
+hijack
+advisory
+insecure
+cross-origin
+unauthorized
+infinite loop
+authentication
+brute force
+bypass
+crack
+credential
+hack
+harden
+injection
+lockout
+password
+proof of concept
+poison
+privilege
+spoof
+compromise
+valid
+out of array
+exhaust
+off-by-one
+privesc
+bugzilla
+limit
+craft
+overrun
+overread
+override
+replay
+constant time
+mishandle
+underflow
+violation
+recursion
+snprintf
+initialize
+prevent
+guard
+protect
