@@ -54,7 +54,9 @@ attack
 vulnerable
 fuzz
 verify
-security issue/problem/fix
+security issue
+security problem
+security fix
 privilege
 malicious
 undefined behavior
