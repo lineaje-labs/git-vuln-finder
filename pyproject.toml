@@ -11,7 +11,7 @@ readme = "README.md"
 
 homepage = "https://github.com/cve-search/git-vuln-finder"
 repository = "https://github.com/cve-search/git-vuln-finder"
-documentation = ""
+documentation = "https://cve-search.github.io/git-vuln-finder"
 
 keywords = [
     "git",
